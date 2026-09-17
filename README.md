@@ -1,4 +1,4 @@
-# vgraph_loop
+# Super Agent Wayfinder
 
 This repo is set up for planning before building. Work is tracked in GitHub Issues. Domain docs are single-context (`CONTEXT.md` + `docs/adr/`), created later when terms actually settle.
 
@@ -61,6 +61,6 @@ Do not start by writing `CONTEXT.md`. It is created when a term is actually reso
 
 Paste a short dump of the idea, then invoke the skill. Example:
 
-> `/wayfinder` I want to build vgraph_loop: [who it’s for, what they do, what “v1 works” looks like]. Chart the map.
+> `/wayfinder` I want to build: [who it’s for, what they do, what “v1 works” looks like]. Chart the map.
 
 Need to lock language/decisions into docs as you talk? Use `/grill-with-docs` instead for a smaller start.
